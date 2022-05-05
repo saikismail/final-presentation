@@ -1,0 +1,13 @@
+.env
+.vscode
+.jshintrc
+node_modules
+devFiles
+desktop.ini
+resources
+htmls
+vendors
+nodemailer.jpg
+misc.js
+mailtest.js
+passport-config.js
